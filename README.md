@@ -26,7 +26,7 @@
 ---
 
 
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimanoj22&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" alt="saimanoj22" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saimanoj22&show_icons=true&locale=en&include_all_commits=true&theme=buefy&hide_border=true" alt="saimanoj22" /></p> |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saimanoj22&show_icons=true&locale=en&include_all_commits=true&theme=buefy&hide_border=true" alt="saimanoj22" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimanoj22&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true&hide=Jupyter Notebook" alt="saimanoj22" /></p> |
 | ------------- | ------------- |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abcgithub&label=Profile%20views&color=0e75b6&style=flat" alt="abcgithub" /> </p>
