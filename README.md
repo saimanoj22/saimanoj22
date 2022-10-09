@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Manoj Etcherla</h1>
 <h3 align="center">Welcome to my GitHub profile</h3>
 
-- 🌱 I am curently learning JAVA
+- 🌱 I am curently learning DSA
 - 🤖 Interested in tech-related stuff
 - 📫 How to reach me **esmanoj.95@gmail.com**
 
