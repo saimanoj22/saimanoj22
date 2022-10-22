@@ -29,4 +29,12 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saimanoj22)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanoj22&layout=compact&hide=jupyter%20notebook&show_icons=true&hide_border=true)](https://github.com/saimanoj22/github-readme-stats) |
 | ------------- | ------------- |
 
+
+<h3>Contributions</h3>
+- Participated in Hacktoberfest 22 and submitted 4+ Pr's.</p>
+
+[![@saimanoj_22's Holopin board](https://holopin.me/saimanoj_22)](https://holopin.io/@saimanoj_22)
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abcgithub&label=Profile%20views&color=0e75b6&style=flat" alt="abcgithub" /> </p>
