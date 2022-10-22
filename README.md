@@ -25,7 +25,7 @@
 
 ---
 
-<h2>Contributions</h2>
+<h2 style="border-bottom: none">Contributions</h2>
 - Participated in Hacktoberfest 22 and submitted 4+ Pr's.</p>
 
 [![@saimanoj_22's Holopin board](https://holopin.me/saimanoj_22)](https://holopin.io/@saimanoj_22)
