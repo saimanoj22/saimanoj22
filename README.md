@@ -35,4 +35,4 @@
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saimanoj22&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanoj22&layout=compact&hide=jupyter%20notebook&show_icons=true&hide_border=true)](https://github.com/saimanoj22/github-readme-stats) |
 | ------------- | ------------- |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abcgithub&label=Profile%20views&color=0e75b6&style=flat" alt="abcgithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abcgithub&label=Profile%20views&color=0e75b6&style=flat" alt="abcgithub" /></p>
